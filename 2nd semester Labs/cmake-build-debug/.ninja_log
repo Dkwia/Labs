@@ -1,0 +1,26 @@
+# ninja log v5
+4	640	7266127020062783	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+2	707	7266128756251065	build.ninja	414d4a957ce15e8c
+1	644	7262381835305620	CMakeFiles/2nd_semester_Labs.dir/main.cpp.obj	7f72a40bcaea7095
+640	762	7266127021334046	2nd_semester_Labs.exe	92743f0c602c450a
+10	656	7263464391800496	CMakeFiles/2nd_semester_Labs.dir/Lab2.cpp.obj	d55b7af23ebe5c5
+9	644	7266146212863743	CMakeFiles/2nd_semester_Labs.dir/Lab3.cpp.obj	59f8d81e6dbf20ab
+4	663	7266146213063927	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+10	644	7266146556328702	CMakeFiles/2nd_semester_Labs.dir/Lab3.cpp.obj	59f8d81e6dbf20ab
+4	905	7266146556709062	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+4	651	7266147957459367	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+3	624	7266148329597906	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+625	748	7266148330854127	2nd_semester_Labs.exe	856e6bfb2d5da05b
+3	625	7266148500733619	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+4	631	7266148939923938	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+26	9474	7268300569529607	CMakeFiles/2nd_semester_Labs.dir/Lab3.cpp.obj	59f8d81e6dbf20ab
+5	9481	7268300569529607	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+11	693	7268301615066774	CMakeFiles/2nd_semester_Labs.dir/Lab3.cpp.obj	59f8d81e6dbf20ab
+4	710	7268301615237027	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+5	648	7268301887136763	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+11	646	7268303515016419	CMakeFiles/2nd_semester_Labs.dir/Lab3.cpp.obj	59f8d81e6dbf20ab
+4	790	7268303516467734	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+11	653	7268303908146572	CMakeFiles/2nd_semester_Labs.dir/Lab3.cpp.obj	59f8d81e6dbf20ab
+4	671	7268303908326719	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527
+21	673	7268307564067043	CMakeFiles/2nd_semester_Labs.dir/Lab3.cpp.obj	59f8d81e6dbf20ab
+4	707	7268307564417359	CMakeFiles/2nd_semester_Labs.dir/Lab1.cpp.obj	42e9bed38beb2527

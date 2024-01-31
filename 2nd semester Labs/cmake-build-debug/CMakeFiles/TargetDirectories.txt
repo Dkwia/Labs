@@ -1,0 +1,3 @@
+C:/Users/Bobro/CLionProjects/2nd_semester_Labs/cmake-build-debug/CMakeFiles/2nd_semester_Labs.dir
+C:/Users/Bobro/CLionProjects/2nd_semester_Labs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bobro/CLionProjects/2nd_semester_Labs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
